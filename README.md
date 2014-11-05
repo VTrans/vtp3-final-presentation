@@ -9,6 +9,6 @@ vtp3-final-presentation
 - review of the agile process
 - where we go from here
 
-Final presentation for VTransparency 3.0 development offsite
+###Final Presentation
 
 http://vtrans.github.io/vtp3-final-presentation
