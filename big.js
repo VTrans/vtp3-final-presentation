@@ -13,12 +13,7 @@ window.onload = function() {
         } else {
             document.body.style.backgroundImage = '';
         }
-        while (
-            e.offsetWidth > window.innerWidth ||
-            e.offsetHeight > window.innerHeight) {
-            e.style.fontSize = (i -= 10) + 'px';
-        }
-        e.style.fontSize = (i -= 30) + 'px';
+        
         if (window.location.hash !== n) window.location.hash = n;
         document.title = e.textContent || e.innerText;
     }
