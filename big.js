@@ -13,7 +13,7 @@ window.onload = function() {
         } else {
             document.body.style.backgroundImage = '';
         }
-        
+        e.style.fontSize = '200px';
         if (window.location.hash !== n) window.location.hash = n;
         document.title = e.textContent || e.innerText;
     }
@@ -35,5 +35,5 @@ window.onload = function() {
         if (c !== cur) go(c);
     };
 
-    go(cur);
+    //go(cur);
 };
