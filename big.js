@@ -13,7 +13,12 @@ window.onload = function() {
         } else {
             document.body.style.backgroundImage = '';
         }
-        e.style.fontSize = '200px';
+        while (
+            e.offsetWidth > window.innerWidth ||
+            e.offsetHeight > window.innerHeight) {
+            e.style.fontSize = (i -= 10) + 'px';
+        }
+        e.style.fontSize = (i -= 30) + 'px';
         if (window.location.hash !== n) window.location.hash = n;
         document.title = e.textContent || e.innerText;
     }
@@ -35,5 +40,5 @@ window.onload = function() {
         if (c !== cur) go(c);
     };
 
-    //go(cur);
+    go(cur);
 };
