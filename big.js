@@ -6,19 +6,8 @@ window.onload = function() {
         var i = 1e3, e = s[n];
         for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
         e.style.display = 'inline';
-        e.style.fontSize = i + 'px';
-        if (e.firstChild.nodeName === 'IMG') {
-            document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
-            e.firstChild.style.display = 'none';
-        } else {
-            document.body.style.backgroundImage = '';
-        }
-        while (
-            e.offsetWidth > window.innerWidth ||
-            e.offsetHeight > window.innerHeight) {
-            e.style.fontSize = (i -= 10) + 'px';
-        }
-        e.style.fontSize = (i -= 30) + 'px';
+        e.style.fontSize = '50px';
+       
         if (window.location.hash !== n) window.location.hash = n;
         document.title = e.textContent || e.innerText;
     }
