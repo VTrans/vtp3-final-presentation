@@ -1,0 +1,12 @@
+###Attendees
+- Brown
+- Hurd
+- Scott
+- Nailor
+- Robie
+- Devlin
+- Smith
+- Brasseur
+- Lofgren
+- Viani
+- Thurber
