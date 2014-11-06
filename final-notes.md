@@ -14,12 +14,13 @@
 - Thurber
 - Kiniry
 - White
-- Delabruere
+- ~~Delabruere~~ 
 - Hedges
 - Rodgers
 - Cole
 - Symonds
- 
+- Tetrault
+- Fitch
 
 V: Intro/background
 
@@ -62,6 +63,40 @@ _Tabling the project date discussion_
 Robie: Universal color scheme? It's a culture change.
 Cole: Button for color blindness?
 Lofgren: DII has a web colorblind policy
+
+##Bridges
+
+_Data issue_
+
+##Projects
+
+Symonds: Once a project is in construction switch the contact info to resident engineer
+
+Symonds: Filkorn is looking for a single source for project websites
+
+##Maintenance
+
+Cole: The language... "MOB", "MM Plaques" - obscure? Does it have to be one line?
+Viani: It will take some work to fix the acronyms
+Brown: Should there be a POC for the maintenance activities?
+Fitch: Just put "Garage" 
+Robie: Maintenance Top 10 vs Maintenance Activities titles
+Fitch: I see Maint. Top 10 = top 10 they're doing, top 10 projects. Largest 10
+Viani: "Current Maintenance Projects"
+Devlin: Plowing? The whole map will be plows in the winter
+Viani: Couldn't dig into winter maintenance in this project
+
+Viani: Eventually take some of the static maps into the same platform
+
+White: The public sees it all as road, not paving, maintenance, proejcts, bridges etc. Will the public see a disconnect?
+Tetrault: Who will look at the data from the pulbic? Press or media. Or public following a press story. The media says "bridge condition" or "pavement condition", so the public will probably follow that
+Hedges: I get a dozen calls a year about bridge condition. They also ask about more detailed metrics. Share links to the dashbaords?
+Tetrault: I'm not worried about the public having access to info they see in the press
+Fitch: It has to be sustainable. It's great if it answers 90% of the questions. Too big is too hard to maintain. What is the essential information?
+Tetrault: 90% of the questions I get are in well maintained data
+Viani: We didn't create, we just exposed that data
+
+
 
 
 
