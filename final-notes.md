@@ -122,6 +122,23 @@ Nailor: Encourage hackathons to play with our data
 Fitch: Should we put a disclaimer?
 
 
+Tetrault: How did it impact your normal workload? How often could you break away for a week?
+Viani: Monday was rough
+Kiniry: Down to 100 unread
+Tetrault: Let's identify mission critical datasets that could help us next year. Might need a couple more weeks before then. Well done.
+Fitch: Great.
+Kiniry: Documentation - github
+Lofgren: We all cross-trained
+Cole: When is go-live?
+Viani: We'll work with the PM's to get the data cleaned up, develop process. It's a VPINS issue, but we want to drive it. We'll test it with people and get feedback. 
+Tetrault: Pick-list choices. How do we give input to tweaks?
+Viani: We'll make small tweaks when the come up, but big ideas might have to wait until the next meeting
+Tetrault: Develop a risk-registry, a backlog. A form exec staff could fill out
+Viani: We've loved the feedback
+Thurber: Will the old VTransparency go away?
+Nailor: We'll look at moving the things around.
+Thurber: What about town bridges
+Nailor: We have to consider the audience. Maybe we migrate it to AGO.
 
 
 
