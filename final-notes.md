@@ -96,6 +96,36 @@ Fitch: It has to be sustainable. It's great if it answers 90% of the questions. 
 Tetrault: 90% of the questions I get are in well maintained data
 Viani: We didn't create, we just exposed that data
 
+##Contacts
+
+Hedges: What about contacting about an asset condition? Bridge condition? Pavement condition?
+Brown: You mean feedback about a pothole?
+White: Those contacts already work.
+Fitch: Is this a 24h contact form? Include an emergency contact? If we put our number out we're saying we're available
+Scott: I'm going to call the state police. We could include the hours
+Fitch: When hiring public outreach coordinators we included language (that the experts said) that we'll return your call within 24 hours. It's about customer satisfaction
+Scott: That's an agency policy discussion
+Tetrault: The value of the tool is that it reduces the number of phone calls or emails we get. I'd invest the time so that there are fewer phone calls
+
+###Feedback form
+
+Fitch: Is the map open to the public?
+Lofgren: No.
+
+Lofgren: We can build a decision tree to route issues to their appropriate person
+Fitch: And CC Erik. Some people like to type instead.
+
+##Open data portal
+
+Cole: People could develop apps
+Nailor: Encourage hackathons to play with our data
+Fitch: Should we put a disclaimer?
+
+
+
+
+
+
 
 
 
